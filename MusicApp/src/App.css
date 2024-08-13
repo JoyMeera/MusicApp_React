@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body{
+  background-color: rgb(30, 46, 61);
+  color: rgb(192, 200, 212);
+  font-family:'Courier New', Courier, monospace;
+}
+
+form p{
+  text-align: justify;
+}
+.band-Picture{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+.cover-art{
+  width: 100px;
+  height: 50px;
+}
+.music-item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.content-liked{
+  background-color: green;
+}
