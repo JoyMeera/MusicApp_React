@@ -19,6 +19,7 @@ form p{
   border-radius: 50%;
 }
 .cover-art{
+  padding: 10px 2px 2px 2px;
   width: 100px;
   height: 50px;
 }
@@ -29,4 +30,11 @@ form p{
 }
 .content-liked{
   background-color: green;
+}
+.nav-links {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
 }
