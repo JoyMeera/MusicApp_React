@@ -6,7 +6,7 @@ function Nav() {
       <nav>
         <ul className="nav-links">
           <NavLink to="/">Home</NavLink>
-          <NavLink to="/Music">Music</NavLink>
+          <NavLink to="/Artist">Artist</NavLink>
           <NavLink to="/About">About</NavLink>
         </ul>
       </nav>
